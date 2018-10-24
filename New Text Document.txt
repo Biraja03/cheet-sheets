@@ -1,0 +1,3 @@
+
+[ content-manegment system / version controling tool ]
+   ex- cvs , subversion (svn),git
