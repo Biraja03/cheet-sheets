@@ -1,0 +1,31 @@
+1st- install npm (npm install http-server -g).
+
+2nd- download node.js (current version-10.12.0).
+
+3rd- check whether npm instal or not (npm -v).
+
+4th- check whether node.js instal or not (node -v).
+
+5th- create a free account in git hub. link -(https://github.com/.)
+
+6th- download a git-scm. (link-https://git-scm.com/downloads).
+
+7th- download a tortoisegit app. (link- https://tortoisegit.org/)
+
+8th- create a git hub repositories folder.
+
+9th- upload your project codes.
+                        for that ( 1st- type gitpull in cmd .. for updating )
+                                 ( 2nd- type After doing changes: git add -A)
+                                 (3rd-git commit -m "<some essage>")
+                                 (4th-git push origin master)
+
+10th - for download github stored code 
+                                       . go to your github project section
+                                       . download or copy the clone link
+                                       . go to the selected foldr and type cmd
+                                       . then type { git clone "the link "} in cmd
+
+11th- type [ http-server] in cmd for local host.
+
+12th - download ("sublime") app for run html,css.javascript codes

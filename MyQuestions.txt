@@ -10,3 +10,5 @@ Real project:
 Scalability
 Flexibility 
 Mentainability
+
+1) Why index.html kept outside?
