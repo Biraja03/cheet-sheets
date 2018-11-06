@@ -29,3 +29,4 @@
 11th- type [ http-server] in cmd for local host.
 
 12th - download ("sublime") app for run html,css.javascript codes
+13th- open project ( http-server)
